@@ -36,10 +36,8 @@ We welcome contributions from the community to enhance the functionality and acc
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
-
-For any questions, feedback, or support, please contact [your-email@example.com](mailto:your-email@example.com).
 
 Thank you for supporting our mission to empower individuals through financial literacy and transparency!
