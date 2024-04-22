@@ -18,11 +18,11 @@ Output:
 
 ## Contribution Guidelines
 
-For contribution guidelines, see [Contribution Guidelines](<Contribution Guidelines.md>) for details.
+For contribution guidelines, see [Contribution Guidelines](<CONTRIBUTING.md>) for details.
 
 ## Code of Conduct
 
-For our code of conduct guidelines, see [Code of Conduct](<Code of Conduct.md>) for details.
+For our code of conduct guidelines, see [Code of Conduct](<CODE_OF_CONDUCT.md>) for details.
 
 ## License
 
