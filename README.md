@@ -26,7 +26,7 @@ To get started with the Micro-Finance Interest Calculator, follow these steps:
 
 ## Contribution Guidelines
 
-For contribution guidelines, see [Contribution Guidelines]("Contribution Guidelines.md") for details.
+For contribution guidelines, see [Contribution Guidelines](<Contribution Guidelines.md>) for details.
 
 ## License
 
