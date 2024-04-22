@@ -7,3 +7,5 @@ We welcome contributions from the community to enhance the functionality and acc
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/improvement`).
 5. Create a new Pull Request.
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
