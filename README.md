@@ -6,6 +6,15 @@ Welcome to the Micro-Finance Interest Calculator, a tool designed to empower low
 
 This project aims to address the need for accessible financial tools tailored to the specific needs of low-income communities. By offering a simple and intuitive interest calculator, we aim to promote financial literacy and enable users to make informed decisions about borrowing.
 
+## Technical details
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
+
 ## Features
 
 - **Simple Interface**: The calculator provides a user-friendly interface for inputting loan amount, interest rate, and term.
