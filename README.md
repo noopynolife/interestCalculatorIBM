@@ -8,11 +8,17 @@ This project aims to address the need for accessible financial tools tailored to
 
 ## Technical details
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
 Input:
+
    p, principal amount
+   
    t, time period in years
+   
    r, annual rate of interest
+   
 Output
+
    simple interest = p*t*r
 
 ## Features
