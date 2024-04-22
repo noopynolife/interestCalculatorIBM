@@ -28,6 +28,10 @@ To get started with the Micro-Finance Interest Calculator, follow these steps:
 
 For contribution guidelines, see [Contribution Guidelines](<Contribution Guidelines.md>) for details.
 
+## Code of Conduct
+
+For our code of conduct guidelines, see [Code of Conduct](<Code of Conduct.md>) for details.
+
 ## License
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
